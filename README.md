@@ -1,5 +1,5 @@
 # MEAN-Web
- My first Web App and RESTful API Server Using the MEAN Stack
+Portfolio Web App and RESTful API Server Using the MEAN Stack
  
  Portfolio-like web app with an about me, projects, create project and contact pages.
  Projects are stored as JSON in the backend.
