@@ -7,3 +7,4 @@ My first Web App and RESTful API Server Using the MEAN Stack
 TO RUN
 1. Navigate to backend/ and type in CMD: "node index.js"
 2. Navigate to proyecto-angular/ and type in CMD: "ng serve"
+3. Open http://localhost:4200/
