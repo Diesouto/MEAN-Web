@@ -8,3 +8,5 @@ Projects are stored as JSON in the backend.
 1. Navigate to backend/ and type in CMD: `node index.js`
 2. Navigate to proyecto-angular/ and type in CMD: `ng serve`
 3. Open http://localhost:4200/
+
+(You need to have installed NODE and MongoDB to run this project)
